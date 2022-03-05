@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MissYoda
+- 👀 I’m interested in Python, SQL
+- 🌱 I’m currently learning Python, SQL
